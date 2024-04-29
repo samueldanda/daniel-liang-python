@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bcf2184-172a-4297-a287-3c94f5ecc060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/danielLiang.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_2/2.17.py" afterDir="false" />
+    <list default="true" id="5bcf2184-172a-4297-a287-3c94f5ecc060" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_29(Game_Hangman)/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_3(Count_Occurrence_of_Numbers)/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_4/4.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_4/4.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_5/5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_5/5.35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_5/5.41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_6/6.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_6/6.3-extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_6/6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_6/6.48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_6/MyTriangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_6/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_7/listings/BMI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_4(The_Fan_Class)/Fan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_4(The_Fan_Class)/FanTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_7(Algebra_2X2_Linear_Equation)/LinearEquation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_7(Algebra_2X2_Linear_Equation)/LinearEquationTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +54,159 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.6.17.executor": "Run",
+    "Python.6.3-extra.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.6.48.executor": "Run",
+    "Python.FanTest.executor": "Run",
+    "Python.LinearEquationTest.executor": "Run",
+    "Python.Main (1).executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.a.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/samue/PycharmProjects/danielLiang/programming_exercises/chapter_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\PycharmProjects\danielLiang\programming_exercises\chapter_2" />
+      <recent name="C:\Users\samue\PycharmProjects\danielLiang\programming_exercises\chapter_4" />
+      <recent name="C:\Users\samue\PycharmProjects\danielLiang\programming_exercises\chapter_5" />
+      <recent name="C:\Users\samue\PycharmProjects\danielLiang\programming_exercises\chapter_6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\PycharmProjects\danielLiang\programming_exercises" />
+      <recent name="C:\Users\samue\PycharmProjects\danielLiang\programming_exercises\chapter_7\programming_exercises\7_4(The_Fan_Class)" />
+      <recent name="C:\Users\samue\PycharmProjects\danielLiang\programming_exercises\chapter_7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main (1)">
+    <configuration name="FanTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="danielLiang" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_4(The_Fan_Class)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_4(The_Fan_Class)/FanTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LinearEquationTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="danielLiang" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_7(Algebra_2X2_Linear_Equation)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_7(Algebra_2X2_Linear_Equation)/LinearEquationTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="danielLiang" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_29(Game_Hangman)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_29(Game_Hangman)/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="danielLiang" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_3(Count_Occurrence_of_Numbers)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_3(Count_Occurrence_of_Numbers)/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="danielLiang" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_exercises/chapter_6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_exercises/chapter_6/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="danielLiang" />
       <option name="ENV_FILES" value="" />
@@ -82,6 +230,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main (1)" />
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.LinearEquationTest" />
+        <item itemvalue="Python.FanTest" />
+        <item itemvalue="Python.a" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -99,8 +256,19 @@
       <option name="presentableId" value="Default" />
       <updated>1712034268918</updated>
       <workItem from="1712034303776" duration="1292000" />
-      <workItem from="1712035639347" duration="2546000" />
+      <workItem from="1712035639347" duration="3373000" />
+      <workItem from="1712204481061" duration="5800000" />
+      <workItem from="1713759419635" duration="35772000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712050168872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712050168872</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,8 +287,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/danielLiang$main.coverage" NAME="main Coverage Results" MODIFIED="1712037239205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/danielLiang$Main.coverage" NAME="Main Coverage Results" MODIFIED="1714021088918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_3(Count_Occurrence_of_Numbers)" />
+    <SUITE FILE_PATH="coverage/danielLiang$6_3_extra.coverage" NAME="6.3-extra Coverage Results" MODIFIED="1713764385084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_6" />
+    <SUITE FILE_PATH="coverage/danielLiang$a.coverage" NAME="a Coverage Results" MODIFIED="1713846324587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_6" />
+    <SUITE FILE_PATH="coverage/danielLiang$FanTest.coverage" NAME="FanTest Coverage Results" MODIFIED="1713848994775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_4(The_Fan_Class)" />
+    <SUITE FILE_PATH="coverage/danielLiang$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1714031527419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_10(Lists)/programming_exercises/10_29(Game_Hangman)" />
+    <SUITE FILE_PATH="coverage/danielLiang$6_17.coverage" NAME="6.17 Coverage Results" MODIFIED="1713769969662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_6" />
+    <SUITE FILE_PATH="coverage/danielLiang$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1713764159354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_6" />
+    <SUITE FILE_PATH="coverage/danielLiang$6_48.coverage" NAME="6.48 Coverage Results" MODIFIED="1713770046365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_6" />
+    <SUITE FILE_PATH="coverage/danielLiang$LinearEquationTest.coverage" NAME="LinearEquationTest Coverage Results" MODIFIED="1713850584688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programming_exercises/chapter_7/programming_exercises/7_7(Algebra_2X2_Linear_Equation)" />
   </component>
 </project>
